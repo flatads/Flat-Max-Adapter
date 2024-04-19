@@ -5,6 +5,7 @@
 | 版本       | 发布时间       | 更新内容    |
 |----------|------------|---------|
 | 1.4.18.2 | 2024-02-23 | 发布第一个版本 |
+| 1.5.0.3 | 2024-04-19 | 更新新样式 |
 
 ## 引入Adapter
 
@@ -31,10 +32,10 @@ implementation 'com.flatads.adapter:max:1.4.18.2'
 
 // 以下按渠道导入
 // GP
-implementation 'com.flatads.sdk:flatads:1.4.18.2-GP'
+implementation 'com.flatads.sdk:flatads:1.5.0.3-GP'
 
 // 线下
-implementation 'com.flatads.sdk:flatads:1.4.18.2'
+implementation 'com.flatads.sdk:flatads:1.5.0.3'
 
 ```
 ## 在Max用户界面中定义Adapter
